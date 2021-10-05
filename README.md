@@ -1,1 +1,1 @@
-# swarna_adbms_lab
+# adbms_lab
